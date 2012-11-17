@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+body {
+}
+.container.main {
+	padding-top: 20px;
+	background-color: #fff;
+}
