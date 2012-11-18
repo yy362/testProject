@@ -1,5 +1,5 @@
 <?php
-// dsjakdjsad
+//vasvas sa sa sa sa
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/../yii112/yii.php';
 $config=dirname(__FILE__).'/protected/config/main.php';
